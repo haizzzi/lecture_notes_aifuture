@@ -10,3 +10,6 @@ https://huggingface.co/dslim/bert-base-NER
 
 LLM 3차원 시각화
 https://bbycroft.net/llm
+
+self-attention 시각화
+https://poloclub.github.io/transformer-explainer/
