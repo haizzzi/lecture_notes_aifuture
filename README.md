@@ -13,3 +13,5 @@ https://bbycroft.net/llm
 
 self-attention 시각화
 https://poloclub.github.io/transformer-explainer/
+
+상용 tokenization 테스트 싸이트 https://tiktokenizer.f2api.com/
