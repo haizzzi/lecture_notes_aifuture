@@ -19,5 +19,8 @@ https://poloclub.github.io/transformer-explainer/
 fasttext를 통한 word embedding 테스트
 https://github.com/haizzzi/lecture_notes_aifuture/blob/main/word_embedding_vector_exercise.ipynb
 
+seq2seq with attention 시각화
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
 RNNexplainer
 https://damien0x0023.github.io/rnnExplainer/
