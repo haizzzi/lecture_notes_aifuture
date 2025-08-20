@@ -18,3 +18,6 @@ https://poloclub.github.io/transformer-explainer/
 
 fasttext를 통한 word embedding 테스트
 https://github.com/haizzzi/lecture_notes_aifuture/blob/main/word_embedding_vector_exercise.ipynb
+
+RNNexplainer
+https://damien0x0023.github.io/rnnExplainer/
