@@ -14,6 +14,7 @@ https://poloclub.github.io/transformer-explainer/
 상용 tokenization 테스트 싸이트 https://tiktokenizer.f2api.com/
 
 ================================================================
+
 fasttext를 통한 word embedding 테스트
 https://github.com/haizzzi/lecture_notes_aifuture/blob/main/word_embedding_vector_exercise.ipynb
 
