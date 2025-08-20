@@ -2,6 +2,9 @@
 RNNexplainer
 https://damien0x0023.github.io/rnnExplainer/
 
+embedding vector 시각화
+https://projector.tensorflow.org/
+
 seq2seq with attention 시각화
 https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
